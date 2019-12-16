@@ -1,7 +1,7 @@
 # Today I Learned
 
-##Git
+## Git
 
-*Sourcetree
-*github
+* Sourcetree
+* github
 
