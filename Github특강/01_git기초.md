@@ -18,6 +18,10 @@ git들을 관리하는 곳들.
 
 
 
+## Clone
+
+git remote repo는 다운로드가 아니라 clone을 해야한다.
+
 
 
 
